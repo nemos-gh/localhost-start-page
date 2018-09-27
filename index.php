@@ -292,7 +292,6 @@ $colors_names = array_keys($colors);
             <input id="sortBy" name="sortBy" type="checkbox" checked>
             <div class="slide"></div>
           </label>
-        </libxml_get_last_error>
         <li>
           <span>Random colors<i>Turn off for Predefined Colors</i></span>
           <label class="switch">
