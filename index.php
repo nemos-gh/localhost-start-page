@@ -74,7 +74,7 @@ $colors_names = array_keys($colors);
     }
     ul#works li {
       display: flex;
-      width: 50vw;
+      width: 50%;
       height: 33.3333vh;
       overflow: hidden;
     }
